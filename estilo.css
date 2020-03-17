@@ -5,7 +5,15 @@
 	padding-top: 7%;
 	height: 100%;
 }
-
+.capaThanks{
+	
+	padding-top: 7%;
+	height: 100%;
+}
+.bgThanks{
+	background: url('img/thanks.jpg') no-repeat center center;
+	background-size: cover;
+}
 .textobloco1{
 	position: absolute;
 	width: 560px;
@@ -459,6 +467,13 @@ color: #FFFFFF;
 	padding: 5px;
 	color: white;
 	background-color: #3438c6;
+	margin-top: 5%;
+}
+.cronoThanks{
+	padding: 5px;
+	color: #373737;
+	text-align: center;
+	background-color: #FFFFFF;
 	margin-top: 5%;
 }
 .btn {
