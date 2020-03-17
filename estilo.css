@@ -455,7 +455,12 @@ color: #FFFFFF;
 /*.corBotao{
 	background-color: #EC110D;
 }*/
-
+.crono{
+	padding: 5px;
+	color: white;
+	background-color: #3438c6;
+	margin-top: 5%;
+}
 .btn {
 	margin-top: 10%;
 	margin-bottom:5%;
