@@ -1,6 +1,6 @@
 
 .capa{
-	background: url('img/fundo1.png') no-repeat center center;
+	background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('img/fundo1.png') no-repeat center center;
 	background-size: cover;
 	padding-top: 7%;
 	height: 100%;
@@ -11,7 +11,7 @@
 	height: 100%;
 }
 .bgThanks{
-	background: url('img/thanks.jpg') no-repeat center center;
+	background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('img/thanks.jpg') no-repeat center center;
 	background-size: cover;
 }
 .textobloco1{
@@ -54,8 +54,9 @@
 }
 .painel{
 	padding: 10%;
-	background-color: #3438c6;
-	background: #3438C6;
+	background-color: rgba(52, 56, 198, 0.6);
+	
+
 	border-radius: 40px;
 }
 
