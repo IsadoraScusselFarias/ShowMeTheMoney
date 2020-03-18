@@ -26,3 +26,7 @@ var x = setInterval(function() {
     document.getElementById("demo").innerHTML = "EXPIRED";
   }
 }, 1000);
+
+function thanks(){
+  window.location.href = "thankyou.html"
+}
