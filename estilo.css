@@ -666,3 +666,12 @@ color: #212529;
     color: #fff;
     background-color: #FA8E2D9;
     border-color: #FA8E2D}
+
+.btn-primary.focus, .btn-primary:focus{
+	color: #fff;
+    background-color: #FA8E2D9;
+    border-color: #FA8E2D9;
+    box-shadow: #FA8E2D9;
+}
+
+}
